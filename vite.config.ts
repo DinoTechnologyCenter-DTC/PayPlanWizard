@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ command, mode }) => ({
+  base: mode === "production" ? "/PayPlanWizard/" : "/",
   server: {
     host: "::",
     port: 8080,

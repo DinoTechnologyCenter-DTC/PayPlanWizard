@@ -10,8 +10,8 @@ const programs = [
     name: "GAP - GPA Calculator",
     description: "A simple and efficient GPA calculator for students to track their academic performance.",
     duration: "Web Application",
-    // link: "https://mrdino-tz.github.io/GAP/"
-    link: "http://localhost:8081/"
+    link: "https://mrdino-tz.github.io/GAP/"
+    // link: "http://localhost:8081/"
 
   },
   {
